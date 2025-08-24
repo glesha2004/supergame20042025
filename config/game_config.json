@@ -1,0 +1,9 @@
+{
+  "screen_width": 1280,
+  "screen_height": 720,
+  "arena_size": 3200,
+  "capture_time": 10.0,
+  "ship_speed": 220.0,
+  "teams": ["blue", "red"],
+  "hazard_radius": 35.0
+}
