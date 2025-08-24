@@ -1,0 +1,10 @@
+{
+  "arena_size": 3200,
+  "ship_radius": 16,
+  "base_speed": 220,
+  "teams": 2,
+  "ships_per_team": 3,
+  "capture_time": 10.0,
+  "max_level": 90,
+  "rof_cap": 12
+}

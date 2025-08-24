@@ -1,0 +1,21 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+
+# Asset binaries are ignored by default
+assets/*
+!assets/README.txt
+!assets/sfx/
+!assets/fonts/
+assets/sfx/*
+!assets/sfx/.gitkeep
+assets/fonts/*
+!assets/fonts/.gitkeep
+
+# Ignore saves but keep directory
+saves/*
+!saves/.gitkeep
+
+# Ignore config except default game_config.json
+config/*
+!config/game_config.json
