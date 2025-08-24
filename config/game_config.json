@@ -1,0 +1,9 @@
+{
+  "window": {"width": 1280, "height": 720},
+  "arena": {"size": 3200},
+  "teams": 2,
+  "ship": {"radius": 16, "base_speed": 220},
+  "capture": {"points": 4, "time_to_capture": 10},
+  "max_level": 90,
+  "rof_cap": 12
+}
